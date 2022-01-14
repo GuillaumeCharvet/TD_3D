@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Hierarchy
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 881, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 109
+  controlID: 152
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 41
+  controlID: 36
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,7 +278,7 @@ MonoBehaviour:
   m_MinSize: {x: 605, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 42
+  controlID: 37
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -343,22 +343,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3D/Prefabs
+    - Assets/3D/Environment
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/3D/Prefabs
+  - Assets/3D/Environment
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\ETPA\Annee_2\Infographie3D\TD_3D\TowerDefense\Unity\TowerDefenseGC
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 244a0000
-    m_LastClickedID: 18980
-    m_ExpandedIDs: 0000000074490000764900009c49000000ca9a3b
+    m_SelectedIDs: f2490000
+    m_LastClickedID: 18930
+    m_ExpandedIDs: 00000000c0490000c2490000f249000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -386,7 +386,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000007449000076490000
+    m_ExpandedIDs: 00000000c0490000c2490000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -507,9 +507,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 52480000
       m_LastClickedID: 0
-      m_ExpandedIDs: 78f9ffff14490000
+      m_ExpandedIDs: 86faffff54fbffffee4600000c4700003c470000444700008e470000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -569,9 +569,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -7.8800807, y: 1.3007433, z: 5.6033764}
+    m_Target: {x: 3.4960766, y: -0.0104522705, z: 1.6653776}
     speed: 2
-    m_Value: {x: -7.8800807, y: 1.3007433, z: 5.6033764}
+    m_Value: {x: 3.4960766, y: -0.0104522705, z: 1.6653776}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -620,11 +620,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.08732354, y: -0.8964154, z: 0.3836543, w: 0.20403174}
     speed: 2
-    m_Value: {x: 0.0873233, y: -0.89641297, z: 0.38365325, w: 0.20403117}
+    m_Value: {x: -0.0873233, y: 0.89641297, z: -0.38365325, w: -0.20403117}
   m_Size:
-    m_Target: 1.6978033
+    m_Target: 7.103706
     speed: 2
-    m_Value: 1.6978033
+    m_Value: 7.103706
   m_Ortho:
     m_Target: 0
     speed: 2
